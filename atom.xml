@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Amith George]]></title>
+  <link href="http://amithgeorge.github.io/atom.xml" rel="self"/>
+  <link href="http://amithgeorge.github.io/"/>
+  <updated>2014-09-30T15:41:23+05:30</updated>
+  <id>http://amithgeorge.github.io/</id>
+  <author>
+    <name><![CDATA[Amith George]]></name>
+    <email><![CDATA[strider.am@gmail.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>
